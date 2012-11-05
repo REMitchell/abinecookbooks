@@ -1,0 +1,30 @@
+{
+  "version": "0.1.0",
+  "attributes": {
+  },
+  "license": "All rights reserved",
+  "name": "abine-cookbook",
+  "providing": {
+  },
+  "replacing": {
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "recommendations": {
+  },
+  "maintainer_email": "ryan@getabine.com",
+  "dependencies": {
+  },
+  "maintainer": "Abine Inc.",
+  "platforms": {
+  },
+  "description": "Installs/Configures abine-cookbook",
+  "recipes": {
+    "my-first-cookbook::helloworld": "My first recipe, prints Hello World to the RightScale dashboard"
+  },
+  "suggestions": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n"
+}
